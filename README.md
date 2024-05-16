@@ -1,7 +1,3 @@
-Certainly! Here's a concise explanation of the web application we've created:
-
----
-
 ## Social Network Web Application
 
 ### Description:
