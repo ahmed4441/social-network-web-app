@@ -30,10 +30,7 @@ Our Social Network Web Application is a platform where users can register, log i
 - **Deployment**: Deploy the application to a hosting platform like Heroku for public access.
 
 ### Contributors:
-- [Your Name]
-
-### License:
-This project is licensed under the [MIT License](link/to/license).
+- [Ahmed Ibrahim]
 
 ---
 
