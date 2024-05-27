@@ -33,5 +33,3 @@ Our Social Network Web Application is a platform where users can register, log i
 - [Ahmed Ibrahim]
 
 ---
-
-Feel free to customize this README template according to your specific project details and requirements. Let me know if you need further assistance or if you have any questions!
